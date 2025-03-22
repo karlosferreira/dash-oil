@@ -1,0 +1,21 @@
+{
+  "name": "dash-oil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^35.0.3"
+  },
+  "devDependencies": {
+    "electron-installer-debian": "^3.2.0",
+    "electron-packager": "^17.1.2",
+    "electron-reloader": "^1.2.3"
+  }
+}
